@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: basic_math_operations_simple_package
+Version: 0.0.1
+Summary: My first Python package, a simple python package with basic operations
+Home-page: https://github.com/HectorKobayashi/simple-math-package
+Author: hector_kobayashi
+Author-email: hector.kobayashi@gmail.com
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+
+# basic_math_operations
+
+Description. 
+The package package_name is used to:
+	- Add
+	- Subtract
+	extra:
+		- Multipliply
+		- Divide
+	
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install basic_math_operations
+```
+## Author
+Hector
+
+## License
